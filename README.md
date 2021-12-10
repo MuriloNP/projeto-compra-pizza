@@ -7,3 +7,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ##
+- [Link do projeto](https://murilonp.github.io/projeto-compra-pizza/public)
